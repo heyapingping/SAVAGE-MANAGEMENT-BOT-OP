@@ -82,15 +82,15 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="💫 Add SAVAGE BOT to your group 💫",
-            url="t.me/SAVAGE_MANAGER_BOT?startgroup=true",
+            text="💫 Add BATMAN BOT to your group 💫",
+            url="t.me/BATMAN_MANAGER_BOT?startgroup=true",
         ),
     ],
 ]
 
 
 HELP_STRINGS = f"""
-*Main Commands :* [SAVAGE BOT](https://telegra.ph/file/177228bdfd09ae95d34a6.jpg)
+*Main Commands :* [BATMAN BOT](https://telegra.ph/file/177228bdfd09ae95d34a6.jpg)
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
 ✪ /donate: You can support my creater using this command.
